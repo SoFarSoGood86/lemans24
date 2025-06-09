@@ -1,0 +1,9 @@
+{
+  "domain": "lemans24",
+  "name": "24 Heures du Mans",
+  "version": "0.1.0",
+  "documentation": "https://github.com/votre_repo/lemans24",
+  "requirements": ["requests"],
+  "codeowners": ["@votre_user"],
+  "iot_class": "cloud_polling"
+}

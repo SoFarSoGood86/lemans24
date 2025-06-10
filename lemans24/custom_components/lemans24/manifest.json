@@ -1,0 +1,9 @@
+{
+  "domain": "lemans24",
+  "name": "24H Le Mans Live",
+  "version": "1.0.0",
+  "documentation": "https://github.com/SoFarSoGood86/home-assistant-lemans24",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@SoFarSoGood86"]
+}

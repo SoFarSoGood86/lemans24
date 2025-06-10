@@ -1,0 +1,9 @@
+{
+  "name": "24H Le Mans Live",
+  "content_in_root": false,
+  "domain": "lemans24",
+  "documentation": "https://github.com/SoFarSoGood86/home-assistant-lemans24",
+  "issue_tracker": "https://github.com/SoFarSoGood86/home-assistant-lemans24/issues",
+  "version": "1.0.0",
+  "requirements": []
+}

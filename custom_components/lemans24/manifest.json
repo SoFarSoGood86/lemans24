@@ -1,9 +1,9 @@
 {
   "domain": "lemans24",
-  "name": "24 Heures du Mans",
-  "version": "0.1.0",
-  "documentation": "https://github.com/votre_repo/lemans24",
-  "requirements": ["requests"],
-  "codeowners": ["@votre_user"],
-  "iot_class": "cloud_polling"
+  "name": "24H Le Mans Live",
+  "version": "1.0.0",
+  "documentation": "https://github.com/SoFarSoGood86/home-assistant-lemans24",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@SoFarSoGood86"]
 }
